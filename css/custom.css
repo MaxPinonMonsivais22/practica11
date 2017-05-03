@@ -1,0 +1,30 @@
+body{
+	background-image: url(../public/fondoo.jpg);
+}
+a{
+	color: gray;
+}
+div>img{
+	height: 100%;
+	width: 100%;
+	background-color: #A9F5F2;
+
+}
+header{
+	background-color: #FFB74D;
+	padding-top: 60px;
+	padding-bottom: 20px;
+	color: #212121;
+	text-align: center;
+}
+footer{
+	background-color: #FFB74D;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+footer>div>div>div>ul>li>a{
+	color: #2E64FE;
+}
+footer>div>div>div>h3{
+	color: #212121;
+}
